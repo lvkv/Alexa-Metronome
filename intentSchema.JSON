@@ -1,0 +1,15 @@
+{
+	"intents": 
+	[{
+		"intent": "BeatIntent",
+		"slots":
+		[{"name":"BPM",
+		  "type":"AMAZON.NUMBER"}]
+	},
+	{
+		"intent":"cIntent"
+	},
+	{
+		"intent":"EndIntent"
+	}]
+}
