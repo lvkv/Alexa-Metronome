@@ -1,0 +1,33 @@
+BeatIntent Play me a beat at {BPM} beats per minute
+BeatIntent Juice me a jammer at {BPM} beats per minute
+BeatIntent Play at {BPM} beats per minute
+BeatIntent {BPM} BPM 
+BeatIntent {BPM} BPM please
+BeatIntent {BPM}
+BeatIntent {BPM} please
+BeatIntent how about {BPM}
+BeatIntent play {BPM}
+BeatIntent play at {BPM}
+
+
+cIntent yes
+cIntent yeah
+cIntent yammers
+cIntent sure
+cIntent that is good
+cIntent that's good
+cIntent sounds good
+cIntent that's fine
+cIntent yolo
+cIntent that is fine
+cIntent yesh
+cIntent why to the yee to the ess
+cIntent funky
+cIntent sweet
+cIntent don't keep me waiting
+
+EndIntent stop
+EndIntent that's all
+EndIntent that's good
+EndIntent please stop
+EndIntent metronome stop
